@@ -2,5 +2,6 @@
     <div class="container text-center">
         <h1>Benvenuto,</h1>
         <h2>Approfitta dello sconto natalizio!</h2>
+        <a href="/" class="btn btn-success">Home</a>
     </div>
 </div>
