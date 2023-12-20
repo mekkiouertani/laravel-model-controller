@@ -5,6 +5,6 @@
 @section('content')
     <main>
         <a href="/movies">Movies</a>
-        <a href="">Books</a>
+        <a href="/books">Books</a>
     </main>
 @endsection
