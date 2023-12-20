@@ -8,6 +8,18 @@ $fa-font-path: "../webfonts" !default;
 
 @import '~bootstrap/scss/bootstrap';
 
+body{
+    background: linear-gradient(90deg, rgba(84,11,185,1) 0%, rgba(77,128,189,1) 90%);
+
+}
 h1{
     color: $text-color;
 }
+
+.square{
+    height: 400px;
+    width: 400px;
+}
+
+
+
