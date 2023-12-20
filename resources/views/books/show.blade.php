@@ -1,6 +1,6 @@
 {{-- SHOW BOOKS --}}
 @extends('layouts.app')
-@section('title', '$book->title')
+@section('title', $book->title)
 
 @section('content')
     <div class="container d-flex justify-content-between mt-5">
