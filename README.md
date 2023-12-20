@@ -53,3 +53,15 @@ git branch -M main
 git remote add origin https://github.com/mekkiouertani/template_laravel_base.git
 git push -u origin main
 ```
+
+## Clone Repository
+
+```bash
+# creo nuova repo su github da template e la clono su vscode
+composer install
+
+# copiare .env.examples e rinominarla in .env
+php artisan key:generate
+
+npm install
+```
